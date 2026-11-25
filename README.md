@@ -8,7 +8,7 @@ RPG de fantasia em Python com interface gráfica (Tkinter), pixel art procedural
 
 1. **Extração:** Extraia todo o conteúdo do `.zip` em uma nova pasta (mantenha a pasta `artes/` e demais arquivos juntos).
 2. **Jogar:**
-   - **Windows:** Dê dois cliques em `JOGAR.vbs` (inicia sem janela de console) ou `JOGAR.pyw`.
+   - **Windows:** Dê dois cliques em `JOGAR.pyw`.
    - **Terminal / Linux:** Execute `python main.py` dentro da pasta do projeto.
    - *Requisitos:* Python 3 com Tkinter (sem dependências externas obrigatórias para jogar).
 3. **Trilha Sonora (Opcional):**
