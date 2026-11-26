@@ -40,7 +40,7 @@ RPG de fantasia em Python com interface gráfica (Tkinter), pixel art procedural
 
 ## Estrutura do Projeto
 
-- `main.py` / `JOGAR.pyw` / `JOGAR.vbs`: Pontos de entrada do jogo.
+- `main.py` / `JOGAR.pyw`: Pontos de entrada do jogo.
 - `rpg.py`: Interface principal em Tkinter.
 - `campanha.py`, `progressao.py`, `expansao.py`, `mundo.py`: Motores base, lore, eventos e progressão.
 - `companheiros.py`, `equipe.py`: Sistema de aliados, afinidade, missões pessoais e diálogos de grupo.
